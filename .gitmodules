@@ -1,0 +1,4 @@
+[submodule "themes for office0314"]
+	path = office0314/_themes
+	url = https://github.com/Microsoft/templates.docs.msft
+	branch = master
